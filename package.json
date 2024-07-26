@@ -1,0 +1,19 @@
+{
+  "name": "file-system-project2",
+  "version": "1.0.0",
+  "description": "ejercicio con funciones 'Sync'",
+  "main": "mkdir-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/F5Am4/fs-dir-34s.git"
+  },
+  "author": "Nestor Chaparro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F5Am4/fs-dir-34s/issues"
+  },
+  "homepage": "https://github.com/F5Am4/fs-dir-34s#readme"
+}

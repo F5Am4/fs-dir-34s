@@ -1,3 +1,3 @@
 const fs = require('fs')
 
-fs.mkdirSync('nueva-carpeta')
+fs.mkdirSync('nueva-carpeta2')
